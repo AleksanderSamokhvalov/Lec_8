@@ -1,0 +1,15 @@
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practice_8 (двумерные массивы_2)\Home_work\hw_task_54\bin\Debug\net6.0\hw_task_54.exe
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practice_8 (двумерные массивы_2)\Home_work\hw_task_54\bin\Debug\net6.0\hw_task_54.deps.json
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practice_8 (двумерные массивы_2)\Home_work\hw_task_54\bin\Debug\net6.0\hw_task_54.runtimeconfig.json
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practice_8 (двумерные массивы_2)\Home_work\hw_task_54\bin\Debug\net6.0\hw_task_54.dll
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practice_8 (двумерные массивы_2)\Home_work\hw_task_54\bin\Debug\net6.0\hw_task_54.pdb
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practice_8 (двумерные массивы_2)\Home_work\hw_task_54\obj\Debug\net6.0\hw_task_54.csproj.AssemblyReference.cache
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practice_8 (двумерные массивы_2)\Home_work\hw_task_54\obj\Debug\net6.0\hw_task_54.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practice_8 (двумерные массивы_2)\Home_work\hw_task_54\obj\Debug\net6.0\hw_task_54.AssemblyInfoInputs.cache
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practice_8 (двумерные массивы_2)\Home_work\hw_task_54\obj\Debug\net6.0\hw_task_54.AssemblyInfo.cs
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practice_8 (двумерные массивы_2)\Home_work\hw_task_54\obj\Debug\net6.0\hw_task_54.csproj.CoreCompileInputs.cache
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practice_8 (двумерные массивы_2)\Home_work\hw_task_54\obj\Debug\net6.0\hw_task_54.dll
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practice_8 (двумерные массивы_2)\Home_work\hw_task_54\obj\Debug\net6.0\refint\hw_task_54.dll
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practice_8 (двумерные массивы_2)\Home_work\hw_task_54\obj\Debug\net6.0\hw_task_54.pdb
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practice_8 (двумерные массивы_2)\Home_work\hw_task_54\obj\Debug\net6.0\hw_task_54.genruntimeconfig.cache
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practice_8 (двумерные массивы_2)\Home_work\hw_task_54\obj\Debug\net6.0\ref\hw_task_54.dll
