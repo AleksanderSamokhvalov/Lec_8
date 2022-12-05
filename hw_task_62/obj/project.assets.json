@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\AXe\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Учеба 2022-2023\\Менеджер IT - GB\\Знакомство с языками программирования\\Practice_8 (двумерные массивы_2)\\Home_work\\hw_task_62\\hw_task_62.csproj",
+      "projectUniqueName": "D:\\Учеба 2022-2023\\Менеджер IT - GB\\Знакомство с языками программирования\\Home_work_practice_8\\hw_task_62\\hw_task_62.csproj",
       "projectName": "hw_task_62",
-      "projectPath": "E:\\Учеба 2022-2023\\Менеджер IT - GB\\Знакомство с языками программирования\\Practice_8 (двумерные массивы_2)\\Home_work\\hw_task_62\\hw_task_62.csproj",
-      "packagesPath": "C:\\Users\\AXe\\.nuget\\packages\\",
-      "outputPath": "E:\\Учеба 2022-2023\\Менеджер IT - GB\\Знакомство с языками программирования\\Practice_8 (двумерные массивы_2)\\Home_work\\hw_task_62\\obj\\",
+      "projectPath": "D:\\Учеба 2022-2023\\Менеджер IT - GB\\Знакомство с языками программирования\\Home_work_practice_8\\hw_task_62\\hw_task_62.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\Учеба 2022-2023\\Менеджер IT - GB\\Знакомство с языками программирования\\Home_work_practice_8\\hw_task_62\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\AXe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
