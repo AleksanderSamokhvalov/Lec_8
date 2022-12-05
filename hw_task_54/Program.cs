@@ -24,7 +24,7 @@ int [,] GetArray() // создаем метод который наполняе�
             for (int j = 0; j < array.GetLength(1); j++)
             {
 
-            array[i,j] = new Random().Next(0,11);
+            array[i,j] = new Random().Next(0,10);
             }
         }
         return array;
@@ -52,17 +52,22 @@ void SortArray (int [,] array)
             for (int j = 0; j < array.GetLength(1); j++)
             {
 
-            var orderedNumbers = from z in array
-                     orderby z
-                     select z;
-            foreach (int z in orderedNumbers);
-
+                for (int k = 0; k < array.GetLength(1)-1; k++)
+                {
+                     if (array[i,k]<array[i,k+1])
+                    {
+                    int temp = array[i,k+1];
+                    array [i,k+1] = array[i,k]; 
+                    array[i,k]=temp;
+                    }
+                }
             }
-            Console.WriteLine(array[i,j]);
+            // Console.WriteLine(array[i,j]);
         }
-        Console.Write();
+        // Console.Write();
 }
 
-   PrintArray(GetArray()); 
+PrintArray(GetArray()); 
 Console.WriteLine("=========");
 SortArray(array);
+PrintArray(array);
