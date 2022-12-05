@@ -5,3 +5,41 @@
 // 27(0,0,1) 90(0,1,1)
 // 26(1,0,1) 55(1,1,1)
 
+int [,,] array = new int [2,2,2];
+
+void PrintIndex(int[,,]array) // создаем метод (не возвратный) который выводит в терминал массив из данных введенных пользователем
+    {
+        for (int i = 0; i < array.GetLength(0); i++)
+        {
+            for (int j = 0; j < array.GetLength(1); j++)
+            {
+                for (int k = 0; k < array.GetLength(2); k++)
+                {
+                    Console.WriteLine($"{array[i,j,k]} ({i},{j},{k})");
+                    Console.WriteLine("");
+                }
+                
+            }
+        }
+    }
+
+  void FillArray(int[,,]array) // создаем метод (не возвратный) который выводит в терминал массив из данных введенных пользователем
+    {
+int count = 10;
+        for (int i = 0; i < array.GetLength(0); i++)
+        {
+            for (int j = 0; j < array.GetLength(1); j++)
+            {
+                for (int k = 0; k < array.GetLength(2); k++)
+                    {
+                    array[i, j, k] +=count;
+                            count +=3;  
+                            // Console.WriteLine (""); 
+                    }
+                    
+            }
+        }
+    }
+
+    FillArray(array);
+    PrintIndex(array);
